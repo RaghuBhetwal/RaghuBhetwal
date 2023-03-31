@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @RaghuBhetwal
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning ML,Data Analytics ,Deployment etc.
+- 👀 Data Science Aspirant: Experiment of data
+- 🌱 Interest : Machine Learning,DL,NLP,Data Analytics ,Deployment etc.
 - 📫 How to reach me raghubhetwal22@gmail.com
+
 
 
 <!---
