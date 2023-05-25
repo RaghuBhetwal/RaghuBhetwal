@@ -66,7 +66,7 @@
 <h2><i>🤝🏻 Let's Connect</i></h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/iamraghubhetwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Raghu Bhetwal" height="30" width="40" /></a>
-<a href="[https://fb.com/anil0403](https://www.facebook.com/raghu.bhetwal765)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anil0403" height="30" width="40" /></a>
+<a href="https://www.facebook.com/raghu.bhetwal765" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="RaghuBhetwal" height="30" width="40" /></a>
 <a href="https://www.instagram.com/raghu_bhetwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Raghu Bhetwal" height="30" width="40" /></a>
 </p>
 
