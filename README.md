@@ -5,7 +5,7 @@
 <!----------------------------------- About Section ------------------------------------>
 <div>
   <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-  <img align="right" width="300" alt="Coding" src="https://user-images.githubusercontent.com/71542496/135060605-259f5229-45d1-4d33-a2b8-1da37d178b5f.gif">
+  <img align="right" width="370" alt="Coding" src="https://user-images.githubusercontent.com/71542496/135060605-259f5229-45d1-4d33-a2b8-1da37d178b5f.gif">
   </a></p>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions;
