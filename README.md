@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghu</h1>
 <h3 align="center">Web is Present</h3>
-
 <br>
 <!----------------------------------- About Section ------------------------------------>
 <div>
