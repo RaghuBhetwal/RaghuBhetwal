@@ -5,14 +5,14 @@
 <!----------------------------------- About Section ------------------------------------>
 <div>
   <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-  <img align="right" width="370" alt="Coding" src="https://user-images.githubusercontent.com/71542496/135060605-259f5229-45d1-4d33-a2b8-1da37d178b5f.gif">
+  <img align="right" width="370" height = "210" alt="Tech Guy" src="https://user-images.githubusercontent.com/71542496/135060605-259f5229-45d1-4d33-a2b8-1da37d178b5f.gif">
   </a></p>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions;
 - 🎓 &nbsp; Master Student at University of Applied Science, Dortmund;
 - 🌱 &nbsp; Learning more about Microservices, Blockchain (Web3.0) and ML;
-- 💬 Ask me about **Node, ExpressJS, React, DB , ML**;
-- 📫 How to reach me **raghubhetwal33@gmail.com**.
+- 💬 &nbsp; Ask me about **Node, ExpressJS, React, DB , ML**;
+- 📫 &nbsp; How to reach me **raghubhetwal33@gmail.com**.
 
 </div>
 </br>
