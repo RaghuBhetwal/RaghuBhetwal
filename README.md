@@ -15,7 +15,7 @@
 - 📫 How to reach me **raghubhetwal33@gmail.com**.
 
 </div>
-</br></br>
+</br>
 <!----------------------------------- Tech Stack Section ------------------------------------>
 <h2> 🛠 Tech Stack</h2>
 <h3>Languages</h3>
