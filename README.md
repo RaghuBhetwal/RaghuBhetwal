@@ -9,7 +9,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions;
 - 🎓 &nbsp; Master Student at University of Applied Science, Dortmund;
-- 🌱 &nbsp; Learning more about Microservices, Blockchain (Web3.0) and ML;
+- 🌱 &nbsp; Learning more about Microservices, Edge Computing and ML;
 - 💬 &nbsp; Ask me about **Node, ExpressJS, React, DB , ML**;
 - 📫 &nbsp; How to reach me **raghubhetwal33@gmail.com**.
 
